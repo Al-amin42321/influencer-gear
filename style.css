@@ -32,11 +32,15 @@ h2{
     padding: 10px 24px; 
      color: white;
 }
+.influencer-journey:hover{
+    background-color: coral;
+}
 
 .journey{
     width: 582px;
     height: 270px;
     margin-left: 50px;
+    padding-left: 10px;
 }
 .journey-1{
 width: 440px;
@@ -90,6 +94,8 @@ height: 414px;
     margin: 5%;
     
 }
+/*--------
+ footer----- */
 footer{
     background-color: black;
     color:  #FFFFFF;
